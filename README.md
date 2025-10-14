@@ -1,1 +1,3 @@
-Contains jupyter notebook solutions and excercises for motor control workshop at U Chicago on 10/15/2025 - 10/17/2025
+This repo contains jupyter notebook solutions and excercises for motor control workshop at U Chicago on 10/15/2025 - 10/17/2025
+
+Here's a link to a google drive with the same files: https://drive.google.com/drive/folders/1D_XZNgd-Zgy0t8KiiKc5MsWS8GDtuVFk?usp=drive_link
